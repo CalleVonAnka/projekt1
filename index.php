@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>myCloset</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   </head>
   <body>
@@ -15,7 +16,7 @@
      });
     });
     </script>
-    <div class="form">
+    <div class="form animated bounceInDown">
       <div class="registerForm" id="first_box" align="center">
         <h1>Welcome to myCloset</h1>
         <p>Live smarter. Aliquam vel libero scelerisque, auctor odio nec, iaculis mi. Vestibulum id maximus dui. Ut et aliquet ante. Suspendisse lacinia aliquam posuere. Nullam vitae vulputate erat. Nam id augue neque. Praesent enim diam, egestas eu cursus in, venenatis a erat.</p>
